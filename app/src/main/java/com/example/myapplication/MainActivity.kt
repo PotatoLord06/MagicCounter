@@ -16,5 +16,9 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+        var aktav = "jhgvj"
+        var aktav2 = "jhgvj"
+        var aktav3 = "jhgvj"
+        var aktav4 = "jhgvj"
     }
 }
