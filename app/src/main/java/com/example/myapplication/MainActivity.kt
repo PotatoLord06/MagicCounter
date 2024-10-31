@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         var aktav = "jhgvj"
+        var aktav2 = "jhgvj"
+        var aktav3 = "jhgvj"
     }
 }
