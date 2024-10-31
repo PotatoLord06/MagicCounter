@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
         var aktav = "jhgvj"
         var aktav2 = "jhgvj"
         var aktav3 = "jhgvj"
+        var aktav4 = "jhgvj"
     }
 }
